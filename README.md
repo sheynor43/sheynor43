@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66aa,100:7c3aed&height=180&section=header&text=hey,%20I'm%20sheynor&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
+
 
 <a href="https://github.com/sheynor43">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF66AA&center=true&vCenter=true&width=600&lines=Building+an+osu!+client+in+Rust;Learning+C%2B%2B+and+Rust;Writing+Minecraft+plugins+%26+mods;Shipping+with+AI+agents" alt="typing" />
@@ -57,6 +57,5 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:ff66aa&height=100&section=footer" alt="footer" />
 
 </div>
