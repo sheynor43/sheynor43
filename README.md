@@ -14,15 +14,15 @@
 
 ---
 
-### 👋 About me
+### About me
 
-- 🎯 Currently building **[SLAM](https://github.com/sheynor43/SLAM)**: an alternative osu!standard client written in Rust
-- 🦀 Learning **Rust** and **C++** (one borrow-checker error at a time)
-- ⛏️ Making **Minecraft** plugins and mods for Paper / Purpur
-- 🤖 Comfortable with **agentic development**: I pair with AI agents to design, build and ship
-- 🫠 Self-proclaimed skill issue in everything, but still shipping
+- Currently building **[SLAM](https://github.com/sheynor43/SLAM)**: an alternative osu!standard client written in Rust
+- Learning **Rust** and **C++** (one borrow-checker error at a time)
+- Making **Minecraft** plugins and mods for Paper / Purpur
+- Comfortable with **agentic development**: I pair with AI agents to design, build and ship
+- Self-proclaimed skill issue in everything, but still shipping
 
-### 🛠️ Stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -38,15 +38,15 @@
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
-### 🚀 Projects
+### Projects
 
-#### 🎵 osu!
+#### osu!
 
 <a href="https://github.com/sheynor43/SLAM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sheynor43&repo=SLAM&theme=radical&hide_border=true" alt="SLAM" /></a>
 
 **SLAM** (Stable Lazer Always Mythical): a standalone osu!standard client focused on low latency, support for both stable and lazer maps, skins and replays, and Luau plugins. Early alpha builds are in [Releases](https://github.com/sheynor43/SLAM/releases).
 
-#### ⛏️ Minecraft (Paper 1.21.11)
+#### Minecraft (Paper 1.21.11)
 
 | Project | What it does |
 | --- | --- |
@@ -54,14 +54,6 @@
 | [**NetherOverheat**](https://github.com/sheynor43/Netheroverheat-1.21.11) | Nether overheat mechanic that reuses the air bar as a coolant gauge |
 | [**SleepVote**](https://github.com/sheynor43/SleepVote-1.21.11) | Players vote to skip the night by sleeping |
 | [**WorldToggle**](https://github.com/sheynor43/Worldtoggle-1.21.11) | Lock or unlock the Nether and the End with one command |
-
-### 📊 Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheynor43&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=sheynor43&theme=radical&hide_border=true" alt="Streak" />
-</div>
 
 <div align="center">
 
